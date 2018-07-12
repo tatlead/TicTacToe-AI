@@ -1,4 +1,6 @@
 # TicTacToe
+[![Build status](https://ci.appveyor.com/api/projects/status/eodbhcesl8c96d8t?svg=true)](https://ci.appveyor.com/project/BattlefieldDuck/tictactoe)
+
 A project on Tic-Tac-Toe game, written by C#. Graphic is simulated google.com Tic-Tac-Toe template.
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/BattlefieldDuck/TicTacToe/master/screenshot1.png)
